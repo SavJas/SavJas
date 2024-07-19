@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm SavJas</h1>
 
 <p align="center">
-
+[![HitCount](https://hits.dwyl.com/SavJas/SavJas.svg?style=flat-square&show=unique)](http://hits.dwyl.com/SavJas/SavJas)
 
 ---
 
