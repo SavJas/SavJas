@@ -8,7 +8,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,python,go,vscode,github,discord,zsharp" />
 </div>
 
-()
+<br>
 
 ```python
 print(f'Follow {astraadev} on Github')
