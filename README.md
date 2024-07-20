@@ -1,9 +1,6 @@
 
 <p align="center">Profile Views:</p>
-<div align="center">
-<a>  ![badge](https://kounter.kerolloz.dev/badge/kerolloz.kounter?style=flat-square&color=blue&silent=true) </a>
-  
-</div>
+![badge](https://kounter.kerolloz.dev/badge/kerolloz.kounter?style=flat-square&color=blue&silent=true)
 
 
 <h2 align="center">⚒️ Languages ⚒️</h2>
