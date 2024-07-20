@@ -1,15 +1,13 @@
 ### My Profile Views:
 ![](https://komarev.com/ghpvc/?username=Zer0PointZero)
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/SavJas" alt="Profile Stars"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/SavJas" alt="Profile Forks"></a>
 
 <h2 align="left">⚒️ Languages & Tools ⚒️</h2>
 <br/>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=html,css,python,go,vscode,github,discord,zsharp" />
 </div>
-
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Views&color=bb2527&style=flat&style=for-the-badge&query=%24.views&url=https://api.github-star-counter.workers.dev/user/AstraaDev" alt="Profile Views"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/AstraaDev" alt="Profile Stars"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/AstraaDev" alt="Profile Forks"></a>
 
 ```python
 print(f'Follow {astraadev} on Github')
