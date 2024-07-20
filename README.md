@@ -10,7 +10,7 @@ print(f'Follow {SavJas} on Github')
        OS  :  nt10
    Python  :  python 3.9.13
 Languages  :  HTML, CSS, Very Little Pyton
-  Discord  :  None
+  Discord  :  sjlazaridis
    Server  :  None
 ```
 
