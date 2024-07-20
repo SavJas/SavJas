@@ -5,6 +5,6 @@
 
 <h2 align="center">⚒️ Languages ⚒️</h2>
 <br/>
-<div align="center">
+<div align="left">
     <img src="https://skillicons.dev/icons?i=html,css,python,go,vscode,github,discord" />
 </div>
