@@ -1,6 +1,4 @@
-
-<p align="center">Profile Views:</p>
-
+![](https://komarev.com/ghpvc/?username=SavJas)
 
 <h2 align="center">⚒️ Languages ⚒️</h2>
 <br/>
