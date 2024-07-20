@@ -11,13 +11,13 @@
 <br>
 
 ```python
-print(f'Follow {astraadev} on Github')
+print(f'Follow {SavJas} on Github')
 ```
 
 ```python
        OS  :  nt10
    Python  :  python 3.9.13
-Languages  :  Python, Java, Js, Batch, C, HTML/CSS
+Languages  :  HTML, CSS, Very Little Pyton
   Discord  :  None
    Server  :  None
 ```
