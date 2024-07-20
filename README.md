@@ -19,7 +19,3 @@ Languages  :  Python, Java, Js, Batch, C, HTML/CSS
   Discord  :  None
    Server  :  None
 ```
-
-```json
-Knowledge is power.
-```
