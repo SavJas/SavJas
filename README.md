@@ -4,6 +4,6 @@
 <h2 align="left">⚒️ Languages & Tools ⚒️</h2>
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,python,go,vscode,github,discord,ruby,kotlin,linux,js,nodejs,java,typescript,lua" />
+    <img src="https://skillicons.dev/icons?i=html,css,python,go,vscode,github,discord,zsharp" />
 </div>
 
