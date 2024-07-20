@@ -8,5 +8,5 @@
 <h2 align="center">⚒️ Languages ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,go,c,rust,nodejs,ruby,typescript,php,java,cpp,swift,kotlin" />
+    <img src="https://skillicons.dev/icons?i=html,css,python,go,c,rust,nodejs,typescript,php,java,cpp,swift,kotlin" />
 </div>
