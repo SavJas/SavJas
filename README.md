@@ -18,5 +18,3 @@ Languages  :  HTML, CSS, Very Little Pyton
 <div align="left">
     <img src="https://skillicons.dev/icons?i=html,css,python,go,vscode,github,discord" />
 </div>
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/SavJas/SavJas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
