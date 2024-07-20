@@ -1,7 +1,7 @@
 
 <p align="center">Profile Views:</p>
 <div align="center">
-   ![](https://komarev.com/ghpvc/?username=SavJas)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 </div>
 
 
