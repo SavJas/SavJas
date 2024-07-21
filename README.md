@@ -19,8 +19,6 @@ Certifications:
 
 FreeCodeCamp Web Design
 URL: https://www.freecodecamp.org/certification/sjlazaridis/responsive-web-design
-
-Will add more soon
 ```
 
 
