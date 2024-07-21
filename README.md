@@ -14,8 +14,9 @@ Languages  :  HTML, CSS, Very Little Pyton
    Server  :  None
 ```
 
-```python
+```html
 Certifications:
+
 - FreeCodeCamp Web Design Certification (HTML, CSS)
   URL: https://www.freecodecamp.org/certification/sjlazaridis/responsive-web-design
 ```
