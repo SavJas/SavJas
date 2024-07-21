@@ -20,10 +20,6 @@ Certifications:
 - FreeCodeCamp Web Design Certification (HTML, CSS)
   URL: https://www.freecodecamp.org/certification/sjlazaridis/responsive-web-design
 ```
-```python
-
-```
-
 <h2 align="left">Languages & Tools</h2>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=html,css,atom,vscode,github,discord" />
