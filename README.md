@@ -14,6 +14,12 @@ Languages  :  HTML, CSS, Very Little Pyton
    Server  :  None
 ```
 
+```python
+Certifications : FreeCodeCamp Web Design
+           URL : https://www.freecodecamp.org/certification/sjlazaridis/responsive-web-design
+```
+
+
 <h2 align="left">Languages & Tools</h2>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=html,css,atom,vscode,github,discord" />
