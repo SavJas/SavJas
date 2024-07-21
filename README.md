@@ -14,7 +14,7 @@ Languages  :  HTML, CSS, Very Little Pyton
    Server  :  None
 ```
 
-```html
+```cpp
 Certifications:
 
 - FreeCodeCamp Web Design Certification (HTML, CSS)
