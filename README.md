@@ -2,8 +2,6 @@
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/SavJas" alt="Profile Stars"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/SavJas" alt="Profile Forks"></a>
 
-# Go check one of my projects ---> https://html-css-movies.netlify.app/ source code soon..
-
 ```python
 print(f'Follow {SavJas} on Github')
 ```
@@ -26,3 +24,4 @@ Certifications:
 <div align="left">
     <img src="https://skillicons.dev/icons?i=html,css,atom,vscode,github,discord" />
 </div>
+
