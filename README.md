@@ -21,13 +21,6 @@ Certifications:
   URL: https://www.freecodecamp.org/certification/sjlazaridis/responsive-web-design
 ```
 
-```python
-Projects:
-
-- Movies Website
-  URL: https://sj-movies-hub.netlify.app/
-```
-
 <h2 align="left">Languages & Tools</h2>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=html,css,react,atom,vscode,github,discord" />
