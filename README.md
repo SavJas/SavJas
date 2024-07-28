@@ -23,6 +23,6 @@ Certifications:
 
 <h2 align="left">Languages & Tools</h2>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,react,atom,vscode,github,discord" />
+    <img src="https://skillicons.dev/icons?i=html,css,node,react,atom,vscode,github,discord" />
 </div>
 
